@@ -21,8 +21,8 @@
 ### Github Stats
 
 <div align="left">
-<a  href="https://github.com/SP-XD">
-<img alt="datluu-dev's github stats" width="50%" src="https://github-readme-stats-ddatluu.vercel.app/api?username=datluu-dev&show_icons=true&count_private=true&hide_border=true&theme=cobalt&hide_title=true" href="https://github.com/sp-xd" />
+<a href="#">
+<img alt="datluu-dev's github stats" width="50%" src="https://github-readme-stats-ddatluu.vercel.app/api?username=datluu-dev&show_icons=true&count_private=true&hide_border=true&theme=cobalt&hide_title=true" href="#" />
 <img alt="datluu-dev's top langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datluu-dev&layout=compact&count_private=true&hide_border=true&bg_color=193549&title_color=64CA9E&text_color=64CA9E&icon_color=0480EE&hide=jupyter%20notebook&langs_count=5" />
 </a>
 </div>
