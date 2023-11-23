@@ -1,7 +1,6 @@
-## How you doin'? <img src="https://raw.githubusercontent.com/sudo-datluu/sudo-datluu/main/coffee.svg" style="vertical-align: bottom;">
+# Welcome <img src="https://raw.githubusercontent.com/sudo-datluu/sudo-datluu/main/coffee.svg" height=25px style="vertical-align: bottom!important;">
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 
 ### I'm David, a technoholic guy based in Sydney, Australia 
 
