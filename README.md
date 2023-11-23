@@ -7,7 +7,7 @@
 - 📚 Learning everything about Web development (Flask, Django), SQL and NoSQL, Data development
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love history-research and chess ♟️.
-- 📫 How to reach me: datluu.workoffice@gmail.com
+- 📫 How to reach me: david.lltd.contact@gmail.com
 
 ---
 
