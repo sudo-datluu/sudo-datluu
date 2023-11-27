@@ -20,8 +20,8 @@
 
 <div align="left">
 <a href="#">
-<img alt="sudo-datluu's github stats" width="50%" src="https://github-readme-stats-ddatluu.vercel.app/api?username=sudo-datluu&show_icons=true&count_private=true&hide_border=true&theme=cobalt&hide_title=true" href="#" style="max-width:100%;vertical-align: top;left: 50%;/* transform: translate(0%); *//* height: 150px; */"/>
-<img alt="sudo-datluu's top langs" width="42%" height='144px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-datluu&layout=compact&count_private=true&hide_border=true&bg_color=193549&title_color=64CA9E&text_color=64CA9E&icon_color=0480EE&hide=jupyter%20notebook,HTML,dart,css,php,powershell,cmake&langs_count=6&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;left: 50%;/* transform: translate(0%); *//* height: 150px; */"/>
+<img alt="sudo-datluu's github stats" width="50%" src="https://github-readme-stats-ddatluu.vercel.app/api?username=sudo-datluu&show_icons=true&count_private=true&hide_border=true&theme=cobalt&rank_icon=percentile&hide=issues,contribs,stars&show=prs_merged_percentage,reviews&include_all_commits=true" href="#" style="max-width:100%;vertical-align: top;left: 50%;"/>
+<img alt="sudo-datluu's top langs" width="42%" height='144px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-datluu&layout=compact&count_private=true&hide_border=true&bg_color=193549&title_color=64CA9E&text_color=64CA9E&icon_color=0480EE&hide=jupyter%20notebook,HTML,dart,css,php,powershell,cmake&langs_count=6&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;left: 50%;"/>
 </a>
 </div>
 
