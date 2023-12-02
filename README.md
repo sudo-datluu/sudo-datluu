@@ -28,5 +28,13 @@
 <img alt="sudo-datluu's top langs" height='144px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-datluu&layout=compact&count_private=true&hide_border=true&bg_color=193549&title_color=64CA9E&text_color=64CA9E&icon_color=0480EE&hide=jupyter%20notebook,HTML,dart,css,php,powershell,cmake&langs_count=6&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;left: 50%;"/>
 </div>
 
-
-
+---
+### My Contribution Graph
+<picture>
+<!-- Dark mode -->
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-datluu/sudo-datluu/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+<!-- Light mode -->
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudo-datluu/sudo-datluu/manual-run-output/only-svg/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/sudo-datluu/sudo-datluu/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
+</picture>
+</p>
