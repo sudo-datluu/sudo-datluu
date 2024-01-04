@@ -1,6 +1,11 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20builder,%20An%20explorer,%20A%20learner;Data%20Engineer%20and%20Software%20Engineer;4%20years%20of%20experience&center=true&width=440&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
+  <img src="./text-logo.png" />
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20builder,%20An%20explorer,%20A%20learner;Data%20and%20Software%20Engineer;4%20years%20of%20coding%20experience&center=true&width=440&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
 </p>
 
 <details open>
