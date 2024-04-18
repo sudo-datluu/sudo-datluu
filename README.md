@@ -49,7 +49,7 @@
     <summary><h2>📊 Github Stats</h2></summary>
     <div align="center"">
         <img alt="sudo-datluu's github stats" src="https://github-readme-stats-ddatluu.vercel.app/api?hide_border=true&title_color=FA4549&icon_color=FA4549&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=sudo-datluu&ring_color=5acbe"/>
-        <img alt="sudo-datluu's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-datluu&layout=compact&hide_border=true&title_color=FA4549&icon_color=FA4549&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&hide=jupyter%20notebook,HTML,dart,css,php,powershell,cmake&langs_count=6&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;left: 50%;"/>
+        <img alt="sudo-datluu's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-datluu&layout=compact&hide_border=true&title_color=FA4549&icon_color=FA4549&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&hide=jupyter%20notebook,HTML,JavaScript,dart,css,powershell,cmake,blade&langs_count=6&size_weight=0.5&count_weight=0.5" style="max-width:100%;vertical-align: top;left: 50%;"/>
         <img src="https://streak-stats.demolab.com?user=sudo-datluu&hide_border=true&background=EBEBEB00&stroke=FA4549&ring=FA4549&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=FA4549">
         <img alt="David's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sudo-datluu&bg_color=RRGGBBAA&title_color=FA4549&color=FA4549&line=FA4549&point=ffa3a5&hide_border=true&custom_title=Recent%20Contributions" />
         <picture>
